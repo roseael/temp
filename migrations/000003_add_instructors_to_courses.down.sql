@@ -1,0 +1,2 @@
+ALTER TABLE courses DROP COLUMN IF EXISTS instructors;
+ALTER TABLE courses DROP COLUMN IF EXISTS created_at;
